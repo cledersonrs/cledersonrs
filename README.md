@@ -6,20 +6,18 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Clederson Rodrigues, Currently Student of Systems Development in Brazil
+  Olá, Eu sou Clederson Rodrigues, Atualmente estudante de Sistemas de informação.
   <br>
   <br>
-  🎓 I´m studying systems development at SENAI CFP Fidelis Reis.  
+  🎓 Estou cursando meu bacharelado na UNIUBE.  
   <br>
-  💻 I´m getting to know myself in the field and learning to write code and learn all about it.
+  💻 Estou cada vez mais buscando conhecimentos e aprofundando na área.
   <br>
-  🔬 I still don´t have a career in the field. 
+  🔬 No momento ainda não tenho carreira na área do TI. 
   <br>
   📚 I’m currently learning the logic of programming.
   <br>
-  💬 Ask me about <a href="https://github.com/cledersonrs">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: cledersonrs@gmail.com">cledersonrs@gmail.com</a>
+  📫 Caso queira me contatar <a href="mailto: cledersonrs@gmail.com">cledersonrs@gmail.com</a>
 </p>
 
 <hr>
