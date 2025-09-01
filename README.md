@@ -1,4 +1,4 @@
-<h3 align="center">Hello there, I'm Clederson 👋</h3>
+<h3 align="center">Bem vindo! 👋</h3>
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/cledersonrs/" title="LinkedIn"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
@@ -14,8 +14,6 @@
   💻 Estou cada vez mais buscando conhecimentos e aprofundando na área.
   <br>
   🔬 No momento ainda não tenho carreira na área do TI. 
-  <br>
-  📚 I’m currently learning the logic of programming.
   <br>
   📫 Caso queira me contatar <a href="mailto: cledersonrs@gmail.com">cledersonrs@gmail.com</a>
 </p>
